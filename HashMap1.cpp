@@ -1,11 +1,6 @@
-//Mengchen Xu
-//ID:61281584
 
 
-//HashMap.cpp
-
-
-#include "HashMap.hpp"
+#include "HashMap1.hpp"
 #include <iostream>
 
 
