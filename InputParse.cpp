@@ -1,6 +1,3 @@
-//Mengchen Xu
-//ID:61281584
-//InputParse.cpp
 
 #include <iostream>
 #include <string>
