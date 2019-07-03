@@ -1,7 +1,4 @@
 
-//Mengchen Xu
-//ID: 61281584
-//InputParse is the class to divide input.
 
 
 
