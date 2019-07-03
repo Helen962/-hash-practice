@@ -1,6 +1,3 @@
-//Mengchen Xu
-//ID:61281584
-
 
 #include <iostream>
 #include "HashMap.hpp"
